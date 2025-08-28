@@ -1,6 +1,0 @@
-services:
-  ratebot:
-    image: ratebot
-    build:
-      context: .
-      dockerfile: ./Dockerfile
